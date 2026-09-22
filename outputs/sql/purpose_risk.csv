@@ -1,0 +1,9 @@
+purpose,loan_count,total_loan_amount,default_rate
+small_business,15575,243466000.0,29.86
+medical,15606,140297975.0,21.84
+debt_consolidation,781206,11893122000.0,21.15
+other,78263,767930650.0,21.08
+major_purchase,29543,349124950.0,18.6
+home_improvement,87684,1239111700.0,17.76
+credit_card,295551,4375482650.0,16.93
+car,14647,129434075.0,14.7
